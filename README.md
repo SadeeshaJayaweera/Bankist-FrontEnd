@@ -66,7 +66,7 @@ To see the Bankist application in action, you can simply open the `index.html` f
 npm start
 ```
 
-2. Open your browser and visit [http://localhost:8080](http://localhost:8080) to explore the Bankist homepage.
+2. Open your browser and visit [https://bankist-frontend-web.netlify.app/] to explore the Bankist homepage.
 
 Feel free to interact with the application and explore the codebase to better understand the advanced DOM practices and JavaScript functionalities applied in this project.
 
