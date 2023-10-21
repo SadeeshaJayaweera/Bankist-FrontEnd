@@ -2,6 +2,8 @@
 
 Welcome to the Bankist application, a project developed as part of Jonas Schmedtmann's Complete JavaScript Course 2023 - From Zero to Expert. This application showcases advanced DOM practices and a wide range of JavaScript functionalities while focusing on creating the frontend homepage for Bankist, an online banking platform.
 
+<img src='Preview.png'>
+
 ## Table of Contents
 
 - [📚 Project Overview](#project-overview)
